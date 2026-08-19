@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey, I'm Emmanuel
+## Building products at the intersection of Predictive Analysis & XAI
 
-<!--
-**JEmmanuelAbishai/JEmmanuelAbishai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on bridging the gap between raw data and interpretable insights. My work is driven by a passion for building robust, user-centric solutions that prioritize clarity and decision-making efficiency.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=godot" />
+</p>
+
+---
+
+### Core Focus
+- **Predictive Modeling**: Designing systems that transform data into actionable risk assessments.
+- **Explainable AI (XAI)**: Converting raw data into complex model decisions which enable better insights.
+- **Engineering Shenanigans**: I built reproducible pipelines which maintain documented codebases.
+- **Game Dev**: Currently learning how to develop 2D RPGs (Drawing sprites is hard 😭).
+
+---
+
+### Featured Solutions
+
+| Project | Description | Tech Used |
+| :--- | :--- | :--- |
+| [Readmit-IQ](https://github.com/JEmmanuelAbishai/readmit-risk-prediction) | XAI-based patient risk scoring engine. | Python, XAI |
+| [Finance-Track](https://github.com/JEmmanuelAbishai/finance-tracker-gui) | Financial visualization and decision-support GUI. | Python |
+| [RPG Engine Alpha](https://github.com/JEmmanuelAbishai/rpg-prototype) | Modular 2D RPG framework and state management. | GDScript |
+
+---
+
+### Git Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JEmmanuelAbishai&show_icons=true&theme=tokyonight&show_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEmmanuelAbishai&layout=compact&theme=tokyonight&show_private=true" alt="Top Languages" height="180em"/>
+</p>
+
+---
+
+### Where you can find me !
+<p align="left">
+<a href="https://github.com/JEmmanuelAbishai" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" /></a>
+<a href="mailto:emmanuelabishai@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/john-emmanuel-abishai-256b23300/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
+
+
+</p>
+
+---
