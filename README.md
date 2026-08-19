@@ -1,7 +1,7 @@
 # Hey, I'm Emmanuel
 ## Building products at the intersection of Predictive Analysis & XAI
 
-I focus on bridging the gap between raw data and interpretable insights. My work is driven by a passion for building robust, user-centric solutions that prioritize clarity and decision-making efficiency.
+I focus on bridging the gap between raw data and interpretable insights (and also Game Dev). I'm very passionate about building solutions that prioritize clarity and decision-making efficiency.
 
 ---
 
@@ -15,9 +15,9 @@ I focus on bridging the gap between raw data and interpretable insights. My work
 
 ### Core Focus
 - **Predictive Modeling**: Designing systems that transform data into actionable risk assessments.
-- **Explainable AI (XAI)**: Converting raw data into complex model decisions which enable better insights.
-- **Engineering Shenanigans**: I built reproducible pipelines which maintain documented codebases.
-- **Game Dev**: Currently learning how to develop 2D RPGs (Drawing sprites is hard 😭).
+- **Explainable AI (XAI)**: I enjoy converting raw data into complex model decisions which enable better insights.
+- **Engineering Shenanigans**: I (try to) built reproducible pipelines which maintain documented codebases.
+- **Game Dev**: Since I'm a huge sucker for games I'm currently learning how to develop 2D RPGs (Drawing sprites is hard 😭).
 
 ---
 
