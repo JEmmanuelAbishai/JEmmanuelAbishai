@@ -31,14 +31,6 @@ I focus on bridging the gap between raw data and interpretable insights (and als
 
 ---
 
-### Git Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JEmmanuelAbishai&show_icons=true&theme=tokyonight&show_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEmmanuelAbishai&layout=compact&theme=tokyonight&show_private=true" alt="Top Languages" height="180em"/>
-</p>
-
----
-
 ### Where you can find me !
 <p align="left">
 <a href="https://github.com/JEmmanuelAbishai" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" /></a>
