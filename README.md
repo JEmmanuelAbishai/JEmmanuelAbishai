@@ -8,9 +8,10 @@ I focus on bridging the gap between raw data and interpretable insights (and als
 ### Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,godot,javascript,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,fastapi,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,fastapi,docker" />
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
+
 ---
 
 ### Core Focus
