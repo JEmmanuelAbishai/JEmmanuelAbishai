@@ -27,7 +27,8 @@ I focus on bridging the gap between raw data and interpretable insights (and als
 | Project | Description | Tech Used |
 | :--- | :--- | :--- |
 | [Readmit-IQ](https://github.com/JEmmanuelAbishai/readmit-risk-prediction) | XAI-based patient risk scoring engine. | Python, XAI |
-| [Finance-Track](https://github.com/JEmmanuelAbishai/finance-tracker-gui) | Financial visualization and decision-support GUI. | Python |
+| [Finance-Tracker](https://github.com/JEmmanuelAbishai/finance-tracker-gui) | Financial visualization and decision-support GUI. | Python |
+| [Stress Detector](https://github.com/JEmmanuelAbishai/stress-detection-crx) | Chrome Extension to analyze stress/typing behavior | React, Typescript, Python |
 | [RPG Engine Alpha](https://github.com/JEmmanuelAbishai/rpg-prototype) | Modular 2D RPG framework and state management. | GDScript |
 
 ---
